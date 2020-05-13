@@ -41,7 +41,7 @@ public final class AIWorker extends Thread {
 			for (int i = 0; i < this.workers.length; i++) { // Ask the end of every Workers
 
 				while (this.workers[i] == null) { // Wait worker is created
-					TimeHelper.sleepUninterruptibly(100);
+					TimeHelper.sleepUninterruptibly(50);
 				}
 				workers[i].askEnd();
 			}
