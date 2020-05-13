@@ -21,8 +21,4 @@ Go to [wikipedia](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) for 
 
 Report (French)
 --------
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="100%">
-    <embed src="https://www.docdroid.net/I0uKUTP/rapport-ai-anthony-manon-raphael-yani-pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.docdroid.net/I0uKUTP/rapport-ai-anthony-manon-raphael-yani-pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe width="100%" height="600" src="https://www.docdroid.net/I0uKUTP/rapport-ai-anthony-manon-raphael-yani-pdf" frameborder="0" allowtransparency allowfullscreen></iframe>
